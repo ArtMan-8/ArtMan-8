@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/GraphQL-code-FF0000?style=flat-square&logo=GraphQL&labelColor=black">
     <img src="https://img.shields.io/badge/Gatsby-code-FF0000?style=flat-square&logo=Gatsby&labelColor=black">
     <img src="https://img.shields.io/badge/Jest-code-FF0000?style=flat-square&logo=Jest&labelColor=black">
-    <img src="https://img.shields.io/badge/Enzyme-code-FF0000?style=flat-square&labelColor=black">    
+    <img src="https://img.shields.io/badge/Enzyme-code-FF0000?style=flat-square&labelColor=black">
+    <img src="https://img.shields.io/badge/JSDoc-code-FF0000?style=flat-square&logo=JSDoc&labelColor=black">
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/VSCode-tool-0000FF?style=flat-square&logo=Visual-Studio-Code&labelColor=black">
@@ -38,7 +39,7 @@
     <th colspan="2" style="font-size: 16px; font-weight: 700;">Выполненные проекты</th>
   </tr>
   <tr>
-    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/outline-prototype"><b>outline prototype</b></a></td>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/outline-prototype"><b>Outline Prototype</b></a></td>
     <td>CSS, JS</td>
   </tr>
   <tr>
@@ -46,12 +47,29 @@
   </tr>
   <tr>
     <td rowspan="2"><a target="_blank" href="https://github.com/ArtMan-8/Studio-Ghibli-info"><b>Studio Ghibli info</a></b></td>
-    <td>BEM, SCSS, JS, webpack</td>
+    <td>BEM, SCSS, JS</td>
   </tr>
   <tr>
     <td>SPA на чистом JS.</td>
   </tr>
   <tr>
+    <td rowspan="2"><a target="_blank" href="https://github.com/ArtMan-8/artman-8.github.io"><b>My portfolio site</a></b></td>
+    <td>CSS, Gatsby, React, GraphQL</td>
+  </tr>
+  <tr>
+    <td>Простой сайт-портфолио на Gatsby. В процессе...</td>
+  </tr>
+  <tr>
     <th colspan="2"><a target="_blank" href="https://github.com/artman-training-projects">Учебные проекты</a></th>
+  </tr>
+  <tr>
+    <th colspan="2" style="font-size: 16px; font-weight: 700;">Тестовые задачи</th>
+  </tr>
+  <tr>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-vXkdf85h"><b>test-frontend-vXkdf85h</b></a></td>
+    <td>BEM, React, StyledComponents</td>
+  </tr>
+  <tr>
+    <td>Адаптивный компанент выбора доставки/самовывоза - форма и карта</td>
   </tr>
 </table>
