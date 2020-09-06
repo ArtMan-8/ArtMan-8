@@ -70,6 +70,13 @@
     <td>BEM, React, StyledComponents</td>
   </tr>
   <tr>
-    <td>Адаптивный компанент выбора доставки/самовывоза - форма и карта</td>
+    <td>Адаптивный компонент выбора доставки/самовывоза - форма и карта</td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-3bV0gb4Q"><b>test-frontend-3bV0gb4Q</b></a><br>/в процессе</td>
+    <td>React, graphQL, css-modules</td>
+  </tr>
+  <tr>
+    <td>Интерфейс поиска репозиториев на Github, с выводом основной информации.</td>
   </tr>
 </table>
