@@ -53,11 +53,18 @@
     <td>SPA на чистом JS.</td>
   </tr>
   <tr>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/repository-find"><b>Repository find</b></a></td>
+    <td>React, graphQL, css-modules</td>
+  </tr>
+  <tr>
+    <td>Интерфейс поиска репозиториев на Github, с выводом основной информации.</td>
+  </tr>
+  <tr>
     <td rowspan="2"><a target="_blank" href="https://github.com/ArtMan-8/artman-8.github.io"><b>My portfolio site</a></b></td>
     <td>CSS, Gatsby, React, GraphQL</td>
   </tr>
   <tr>
-    <td>Простой сайт-портфолио на Gatsby. В процессе...</td>
+    <td>Простой сайт-портфолио на Gatsby.</td>
   </tr>
   <tr>
     <th colspan="2"><a target="_blank" href="https://github.com/artman-training-projects">Учебные проекты</a></th>
@@ -71,12 +78,5 @@
   </tr>
   <tr>
     <td>Адаптивный компонент выбора доставки/самовывоза - форма и карта</td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-3bV0gb4Q"><b>test-frontend-3bV0gb4Q</b></a><br>/в процессе</td>
-    <td>React, graphQL, css-modules</td>
-  </tr>
-  <tr>
-    <td>Интерфейс поиска репозиториев на Github, с выводом основной информации.</td>
   </tr>
 </table>
