@@ -1,15 +1,15 @@
-name: Readme
+name: Readme Stats Update
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "5 * * * *"
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v3
         with:
           WAKATIME_API_KEY: ${{ secrets.API_KEY_WAKATIME }}
           GH_TOKEN: ${{ secrets.API_KEY_GH_TOKEN }}
@@ -21,5 +21,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
