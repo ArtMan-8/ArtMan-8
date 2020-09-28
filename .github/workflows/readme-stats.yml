@@ -2,14 +2,14 @@ name: Readme
 
 on:
   schedule:
-    - cron: "0 21 * * SUN"
+    - cron: "5 * * * *"
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: ArtMan-8/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.API_KEY_WAKATIME }}
           GH_TOKEN: ${{ secrets.API_KEY_GH_TOKEN }}
