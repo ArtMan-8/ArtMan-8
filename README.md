@@ -4,7 +4,7 @@
 Зовут меня Владимир, и я делаю Frontend!<br>
 А в свободное время читаю и йожусь )<br>
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artman-8&count_private=true&show_icons=true" />
+<img alt="developer" align="right" src="https://github.com/ArtMan-8/ArtMan-8/blob/master/pics/coding-man.gif" width="400" height="300"/>
 <h3>В&nbspпроектах&nbspиспользовал:</h3>
 <div>
   <div>
@@ -81,28 +81,9 @@
   </tr>
 </table>
 
+<details>
+<summary>Немного статистики</summary>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artman-8&count_private=true&show_icons=true" />
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-SCSS                     9 hrs 42 mins       █████████████░░░░░░░░░░░░   51.88% 
-JavaScript               8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.5% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             █████████████░░░░░░░░░░░░   53.33% 
-HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-
-```
-
-
-
 <!--END_SECTION:waka-->
+</details>
