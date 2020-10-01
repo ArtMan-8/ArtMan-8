@@ -2,7 +2,7 @@ name: Profile Readme Stats Update
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 20 * * sun"
 
 jobs:
   update-readme-with-stats:
