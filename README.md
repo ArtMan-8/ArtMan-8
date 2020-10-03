@@ -79,6 +79,13 @@
   <tr>
     <td>Адаптивный компонент выбора доставки/самовывоза - форма и карта</td>
   </tr>
+  <tr>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-lvoJ5T3f"><b>test-frontend-lvoJ5T3f</b></a></td>
+    <td>React, css-modules</td>
+  </tr>
+  <tr>
+    <td>Виджет - числовое поле с кнопками +-</td>
+  </tr>
 </table>
 
 <details>
