@@ -60,18 +60,20 @@
   <tr>
     <td>Интерфейс поиска репозиториев на Github, с выводом основной информации.</td>
   </tr>
-  <tr>
-    <td rowspan="2"><a target="_blank" href="https://github.com/ArtMan-8/artman-8.github.io"><b>My portfolio site</a></b></td>
-    <td>CSS, Gatsby, React, GraphQL</td>
-  </tr>
-  <tr>
-    <td>Простой сайт-портфолио на Gatsby.</td>
-  </tr>
+
   <tr>
     <th colspan="2"><a target="_blank" href="https://github.com/artman-training-projects">Учебные проекты</a></th>
   </tr>
   <tr>
     <th colspan="2" style="font-size: 16px; font-weight: 700;">Тестовые задачи</th>
+  </tr>
+  
+  <tr>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-lnj4C8vy"><b>test-frontend-lnj4C8vy</b></a></td>
+    <td>React, scss</td>
+  </tr>
+  <tr>
+    <td>Попап - налоговый вычет</td>
   </tr>
   <tr>
     <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-vXkdf85h"><b>test-frontend-vXkdf85h</b></a></td>
