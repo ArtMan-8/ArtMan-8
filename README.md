@@ -5,29 +5,25 @@
 Зовут меня Владимир, и я делаю Frontend!<br>
 А в свободное время читаю и йожусь )<br>
 
-<img alt="developer" align="right" src="https://github.com/ArtMan-8/ArtMan-8/blob/master/pics/coding-man.gif" width="400" height="300"/>
+<img alt="developer" align="right" src="https://github.com/ArtMan-8/ArtMan-8/blob/master/img/coding-man.gif" width="400" height="300"/>
 <h3>В&nbspпроектах&nbspиспользовал:</h3>
 <div>
   <div>
-    <img src="https://img.shields.io/badge/HTML-code-FF0000?style=flat-square&logo=HTML5&labelColor=black">
     <img src="https://img.shields.io/badge/BEM-code-FF0000?style=flat-square&labelColor=black">
-    <img src="https://img.shields.io/badge/CSS-code-FF0000?style=flat-square&logo=CSS3&labelColor=black">
     <img src="https://img.shields.io/badge/Sass-code-FF0000?style=flat-square&logo=Sass&labelColor=black">
-    <img src="https://img.shields.io/badge/JavaScript-code-FF0000?style=flat-square&logo=JavaScript&labelColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-code-FF0000?style=flat-square&logo=TypeScript&labelColor=black">
     <img src="https://img.shields.io/badge/React-code-FF0000?style=flat-square&logo=React&labelColor=black">
     <img src="https://img.shields.io/badge/Redux-code-FF0000?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/StyledComponents-code-FF0000?style=flat-square&logo=styled-components&labelColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-code-FF0000?style=flat-square&logo=TypeScript&labelColor=black">
     <img src="https://img.shields.io/badge/GraphQL-code-FF0000?style=flat-square&logo=GraphQL&labelColor=black">
     <img src="https://img.shields.io/badge/Gatsby-code-FF0000?style=flat-square&logo=Gatsby&labelColor=black">
     <img src="https://img.shields.io/badge/Jest-code-FF0000?style=flat-square&logo=Jest&labelColor=black">
     <img src="https://img.shields.io/badge/Enzyme-code-FF0000?style=flat-square&labelColor=black">
-    <img src="https://img.shields.io/badge/JSDoc-code-FF0000?style=flat-square&logo=JSDoc&labelColor=black">
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/VSCode-tool-0000FF?style=flat-square&logo=Visual-Studio-Code&labelColor=black">
     <img src="https://img.shields.io/badge/ESlint-tool-0000FF?style=flat-square&logo=ESlint&labelColor=black">
-    <img src="https://img.shields.io/badge/Gulp-tool-0000FF?style=flat-square&logo=gulp&labelColor=black">
+    <img src="https://img.shields.io/badge/JSDoc-tool-0000FF?style=flat-square&logo=JSDoc&labelColor=black">
     <img src="https://img.shields.io/badge/Webpack-tool-0000FF?style=flat-square&logo=Webpack&labelColor=black">
     <img src="https://img.shields.io/badge/TravisCI-tool-0000FF?style=flat-square&logo=Travis-CI&labelColor=black">
     <img src="https://img.shields.io/badge/ghPages-tool-0000FF?style=flat-square&logo=GitHub&labelColor=black">
@@ -67,7 +63,7 @@
   <tr>
     <th colspan="2" style="font-size: 16px; font-weight: 700;">Тестовые задачи</th>
   </tr>
-  
+
   <tr>
     <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/test-frontend-lnj4C8vy"><b>test-frontend-lnj4C8vy</b></a></td>
     <td>React, scss</td>
