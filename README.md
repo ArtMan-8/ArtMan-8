@@ -41,7 +41,7 @@
   </tr>
 
   <tr>
-    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/htmlacademy-dashboard"><b>htmlacademy dashboard</b><br />in progress...</a></td>
+    <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/htmlacademy-dashboard"><b>htmlacademy dashboard</b></a></td>
     <td>React, TS, GraphQL, material-ui</td>
   </tr>
   <tr>
