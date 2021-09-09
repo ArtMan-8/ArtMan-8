@@ -42,7 +42,7 @@
 
   <tr>
     <td rowspan="2" width="200"><a target="_blank" href="https://github.com/ArtMan-8/htmlacademy-dashboard"><b>htmlacademy dashboard</b></a></td>
-    <td>React, TS, GraphQL, material-ui</td>
+    <td>React / TS, Material-UI, GraphQL / Apollo, chart.js</td>
   </tr>
   <tr>
     <td>Вывод учебных проектов студентов с базовой информацией, и обобщённой статистикой</td>
