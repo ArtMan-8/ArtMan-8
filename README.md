@@ -3,7 +3,7 @@
 <a target="_blank" href="https://t.me/ArtMan_8"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/artman-888/"><img src="https://img.shields.io/badge/Linkedin-000000?style=plastic&logo=Linkedin&labelColor=black"/></a>
 <a target="_blank" href="mailto:artman888@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
-<a target="_blank" href="https://www.codewars.com/users/ArtMan-8/badges/micro"><img src="https://www.codewars.com/users/ArtMan-8/badges/micro"/></a>
+<a target="_blank" href="https://www.codewars.com/users/ArtMan-8"><img src="https://www.codewars.com/users/ArtMan-8/badges/micro"/></a>
 
 
 Зовут меня Владимир, и я делаю Frontend!<br>
