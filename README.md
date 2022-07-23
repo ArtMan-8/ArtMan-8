@@ -11,15 +11,7 @@
 
 <br />
 
-|<h3>🛠 Основной стек:</h3>      | <h4>🔨 Немного использовал:</h4>
-|--------------------------------|--------------------------------------------
-|HTML / CSS / JS                 |Node.js
-|BEM / SASS / TS                 |REST API / GraphQL
-|React / Next.js                 |Material UI / Ant Design
-|Redux Toolkit                   |AWS Cloud
-|jest / Testing Library          |Chart.js
-|Styled Components / emotion     |разнообразные пакеты из npm
-|Storybook                       |
+<b>🛠 Основной стек:</b> TS, React, Next.js, Mobx, Redux Toolkit, jest, Testing Library, Styled Components, emotion, Storybook
 
 <br />
 
