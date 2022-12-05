@@ -7,12 +7,13 @@
 Зовут меня Владимир, и я делаю Frontend!<br>
 📚 Постоянно учусь чему-то новому<br>
 🎶 Люблю хорошую музыку, и тишину<br>
-🧘 Немного йожусь
+🧘 Немного йожусь<br>
+👨‍🏫 Менторю новичков
 
 <br />
 
-<b>🛠 Основной стек:</b> TS, React, Next.js, Mobx, Redux Toolkit, jest, Testing Library, Styled Components, emotion, Storybook
+<b>🛠️ Основной стек:</b> TS, React, Next.js, Mobx, Redux Toolkit, jest, Testing Library, css-in-js, Storybook
 
 <br />
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=artman-8&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=52fa5a,52fa5a,4dfcff,2228ff&theme=graywhite" /><br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=artman-8&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=52fa5a,52fa5a,4dfcff,2228ff&theme=graywhite" /><br>
