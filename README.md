@@ -12,4 +12,4 @@
 
 <br />
 
-<b>🛠️ Основной стек:</b> TS, React, Next.js, Mobx, Redux Toolkit, jest, Testing Library, css-in-js, Storybook
+<b>🛠️ Основной стек:</b> TS, React, Mobx, tanstack, jest, Testing Library, css-in-js, Storybook
