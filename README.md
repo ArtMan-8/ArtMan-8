@@ -1,3 +1,1 @@
-# Привет, я Владимир 👋
-
-***Frontend → Software Engineer → AI Engineering***
+***Frontend Developer → Software Engineer → AI Engineering***
